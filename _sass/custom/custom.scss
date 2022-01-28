@@ -1,9 +1,0 @@
-/* override theme CSS: fix link wrapping */
-
-.main-content {
-  a {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: normal;
-  }
-}
