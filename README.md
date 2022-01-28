@@ -1,4 +1,4 @@
-# The Leiden Guidelines Website
+# Website: Leiden Guidelines on the Use of Digitally-Derived Evidence
 
 This readme document aims to provide an overview of the technical aspects of the website, with a view to ensuring that the website can be maintained and developed further.
 
