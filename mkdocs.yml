@@ -1,0 +1,59 @@
+# References: https://www.mkdocs.org/user-guide/ and https://squidfunk.github.io/mkdocs-material/
+# Each option is presented as a 'key-value pair', referring to the 'key: value' structure used.
+# The key is like the question. For example, 'site_name' asks, 'what is the name of the website?' The value is the answer.
+# Possible keys and corresponding values are comprehensively listed in the two reference websites given above.
+
+site_name: Leiden Guidelines on the Use of Digitally-Derived Evidence # This must be included: https://www.mkdocs.org/user-guide/configuration/#project-information
+
+# This selects the theme. Note that the key-value pairs which follow are offset by a tab (here, equivalent to two spaces) as they are elements of the theme.
+# For all theme-related key-value pairs: https://squidfunk.github.io/mkdocs-material/
+theme:
+  name: material
+
+  palette: # For everything colour-related: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+    primary: blue
+    accent: green
+  font: # You can use the name of any font on Google Fonts (https://fonts.google.com/): https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
+    text: Open Sans
+
+  logo: assets/favicon.png
+  favicon: assets/favicon.ico
+
+  features:
+    - navigation.expand # Expands all collapsible sub-sections by default: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion
+    - navigation.sections # Groups pages together in sections: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion
+    - navigation.tabs # Activates navigation tabs: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs
+
+nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your-docs/#configure-pages-and-navigation
+  - About the Project: 'index.md'
+  - Guidelines:
+    - 'guidelines/index.md'
+    - 'guidelines/a-videos.md'
+    - 'guidelines/b-photographs.md'
+    - 'guidelines/c-aerial-satellite-images.md'
+    - 'guidelines/d-intercepts.md'
+    - 'guidelines/e-call-data-records.md'
+    - 'guidelines/f-audio-recordings.md'
+  - Resources:
+      - 'resources/downloads.md'
+
+markdown_extensions: # This enables options Markdown features.
+  - footnotes
+  - attr_list # Required for buttons on the downloads page: https://squidfunk.github.io/mkdocs-material/reference/buttons/
+  - admonition # This and the next two required for the Keywords box: https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_javascript: # Opens all external links in a new tab.
+  - javascripts/newtab.js
+
+extra: # Social page links in the footer: https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
+  social:
+    - icon: fontawesome/solid/globe
+      link: http://kalshovengieskesforum.com/
+    - icon: fontawesome/brands/facebook-square
+      link: https://www.facebook.com/KGFLeiden/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/kgfleiden
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/kalshoven-gieskesforum/
