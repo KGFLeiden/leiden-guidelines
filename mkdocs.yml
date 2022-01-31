@@ -3,7 +3,8 @@
 # The key is like the question. For example, 'site_name' asks, 'what is the name of the website?' The value is the answer.
 # Possible keys and corresponding values are comprehensively listed in the two reference websites given above.
 
-site_name: Leiden Guidelines on the Use of Digitally-Derived Evidence # This must be included: https://www.mkdocs.org/user-guide/configuration/#project-information
+site_name: Leiden Guidelines on the Use of Digitally Derived Evidence # This must be included: https://www.mkdocs.org/user-guide/configuration/#project-information
+site_url: https://leiden-guidelines.netlify.app/ # Change if attached to KGF website.
 
 # This selects the theme. Note that the key-value pairs which follow are offset by a tab (here, equivalent to two spaces) as they are elements of the theme.
 # For all theme-related key-value pairs: https://squidfunk.github.io/mkdocs-material/
@@ -35,7 +36,7 @@ nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your
     - 'guidelines/e-call-data-records.md'
     - 'guidelines/f-audio-recordings.md'
   - Resources:
-      - 'resources/downloads.md'
+    - 'resources/downloads.md'
 
 markdown_extensions: # This enables options Markdown features.
   - footnotes

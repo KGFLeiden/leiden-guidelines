@@ -1,13 +1,17 @@
 # Downloads
 
-[DDE in International Criminal Law](/assets/DDE in ICL.pdf){ .md-button }
+## Guidelines
 
-[DDE in Human Rights Fact-Finding Missions](/assets/DDE in HR FFM.pdf){ .md-button }
+[Leiden Guidelines](#){ .md-button }
 
-[DDE Extrapolations Teaser](/assets/DDE Extrapolations Teaser.pdf){ .md-button }
+## Case Law Resources
 
-[DDE International Case Summaries](/assets/DDE ICS.pdf){ .md-button }
+[International Case Summaries](#){ .md-button }
 
-[DDE in National Courts](/assets/DDE in National Courts.pdf){ .md-button }
+[Extrapolations](#){ .md-button }
 
-<iframe src="/assets/DDE in ICL.pdf" width="100%"></iframe>
+## Other Resources
+
+[Prosecution of International Crimes Using DDE in National Courts](/assets/National-Courts.pdf){ .md-button }
+
+[DDE in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){ .md-button }
