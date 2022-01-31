@@ -2,13 +2,13 @@
 
 ## Guidelines
 
-[Leiden Guidelines](#){ .md-button }
+[Leiden Guidelines - to be uploaded](#){:target="_blank" .md-button }
 
 ## Case Law Resources
 
-[International Case Summaries](#){ .md-button }
+[International Case Summaries - to be uploaded](#){:target="_blank" .md-button }
 
-[Extrapolations](#){ .md-button }
+[Extrapolations - to be uploaded](#){:target="_blank" .md-button }
 
 ## Other Resources
 
