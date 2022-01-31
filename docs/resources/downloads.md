@@ -2,7 +2,7 @@
 
 ## Guidelines
 
-[Leiden Guidelines - to be uploaded](#){:target="_blank" .md-button }
+[Leiden Guidelines](/assets/Leiden-Guidelines.pdf){:target="_blank" .md-button }
 
 ## Case Law Resources
 
