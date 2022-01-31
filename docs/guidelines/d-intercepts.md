@@ -54,7 +54,7 @@ The relevance of an intercept cannot be demonstrated if there is no translation 
 
 State of the art equipment is not required to intercept communications worthy of probative value. In *Mladić*, the Trial Chamber found that there was no evidence to support the Defence's assertion that the Army of the Republic of Bosnia and Herzegovina (ABiH), the Serbian State Security Services (SDB), and the Croatian authorities were unable to intercept the Army of the Republika Srpska (VRS) communications[^187] solely because they 'lacked the necessary expertise and technological capacity to intercept VRS communications'.[^188] To that end, a Defence witness testified that a distinction must be made between professional military grade and amateur grade manufactured devices: military devices are always more sensitive, and need to meet other challenges, like the configuration of the land, weather, and/or the way in which they are being used. Whilst the ABiH's equipment may not have been military grade, it was still able to hear participants that were far away.[^189] As a result, the intercepts did have probative value; nonetheless, the Trial Chamber treated them with caution, and considered whether there was corroboration or further detail provided by other sources of evidence.[^190]
 
-### Guideline D6 A detailed explanation of the process of interception and its analysis can overcome shortcomings in the interception process.
+### Guideline D6. A detailed explanation of the process of interception and its analysis can overcome shortcomings in the interception process.
 
 !!! note "Keywords"
     relevance; hardware; technical skill

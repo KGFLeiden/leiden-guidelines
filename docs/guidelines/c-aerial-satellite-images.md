@@ -2,7 +2,7 @@
 
 ### Definition
 
-Although Courts and Tribunals do not provide a standardised definition of this type of DDE, the term 'satellite images' has been used to describe digitally transmitted images taken by artificial satellites orbiting the Earth[^113] and the term 'aerial images' has been used to describe images taken from the sky by aircrafts or drones (also known as Unmanned Aerial Vehicles (UAVs) .[^114]
+Although Courts and Tribunals do not provide a standardised definition of this type of DDE, the term 'satellite images' has been used to describe digitally transmitted images taken by artificial satellites orbiting the Earth[^113] and the term 'aerial images' has been used to describe images taken from the sky by aircrafts or drones (also known as Unmanned Aerial Vehicles (UAVs).[^114]
 
 ### Guideline C1. Where forensic evidence including aerial and satellite images is voluminous, it may be entered into evidence via expert reports summarising the forensic evidence.
 

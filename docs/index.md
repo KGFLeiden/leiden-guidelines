@@ -6,5 +6,6 @@ This research project makes use of the expertise and infrastructure of both the 
 
 <img src="/assets/KGF-logo-full-white.png" alt="Kalshoven-Gieskes Forum"/><img src="/assets/Leiden-logo.png" alt="Universiteit Leiden"/>
 
-Supported by
+Supported by:
+
 <img src="/assets/FDFA-logo.png" alt="Swiss FDFA"/>

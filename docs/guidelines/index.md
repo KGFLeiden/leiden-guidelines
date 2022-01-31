@@ -9,9 +9,11 @@ The Guidelines are intended to assist practitioners by comprehensively outlining
 As DDE is quickly developing and there is no universally adopted definition, the following definitions of DDE have been adopted for these Guidelines, given they reflect a broadly endorsed approach towards, and understanding of, the term:
 
 > **International Bar Association (IBA)**
+>
 > 'Digital and technologically derived evidence, which means evidence taken from and created by digital devices and via technology, such as cameras, satellites and other 'remote sensing technologies' [...] We distinguish digital evidence, created by digital technology and itself the record or trace of an action or event used for the purpose of proceedings, from the digitization of documents and records for the purpose of storing, organizing and presenting evidence, as for example, with the ICC's E-Court protocol.'[^2]
 >
 > **Human Rights Center, University of California, Berkeley School of Law**
+>
 > 'Digital evidence is data that is created, manipulated, stored, or communicated by any device, computer or computer system or transmitted over a communication system, that is relevant to the proceeding.'[^3]
 
 ## 1.2 About the Guidelines

@@ -4,7 +4,7 @@
 
 Call Data Records (CDRs) are defined as metadata that do not contain the content of any communications, but solely provide information about them, such as the source and destination phone numbers, date and time of phone calls and text messages, the type of communication, the duration of phone calls, the IMEI number[^223] of the handset relevant to the communications, and the cell sectors[^224] engaged at the beginning and end of a call.[^225]
 
-Call Sequence Tables **(**CSTs) are spreadsheets or database tables which organise and present relevant information from the CDRs into an intelligible and readable format without altering the content of the CDRs.[^226]
+Call Sequence Tables (CSTs) are spreadsheets or database tables which organise and present relevant information from the CDRs into an intelligible and readable format without altering the content of the CDRs.[^226]
 
 ### Guideline E1. The relevant data should be extracted from Call Data Records (CDRs) and presented in a readable format as Call Sequence Tables (CSTs).
 

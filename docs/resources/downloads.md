@@ -12,6 +12,6 @@
 
 ## Other Resources
 
-[Prosecution of International Crimes Using DDE in National Courts](/assets/National-Courts.pdf){ .md-button }
+[Prosecution of International Crimes Using DDE in National Courts](/assets/National-Courts.pdf){:target="_blank"}{ .md-button }
 
-[DDE in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){ .md-button }
+[DDE in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){:target="_blank"}{ .md-button }
