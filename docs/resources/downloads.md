@@ -6,9 +6,9 @@
 
 ## Case Law Resources
 
-[International Case Summaries - to be uploaded](#){:target="_blank" .md-button }
+[International Case Summaries - to be uploaded](#){ .md-button }
 
-[Extrapolations - to be uploaded](#){:target="_blank" .md-button }
+[Extrapolations - to be uploaded](#){ .md-button }
 
 ## Other Resources
 

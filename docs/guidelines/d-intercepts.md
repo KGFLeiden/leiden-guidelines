@@ -15,9 +15,14 @@ Pursuant to Rule 89(C) of the [ICTY Rules of Procedure and Evidence](https://www
 
 **Bar Table Intercepts Tendered to Corroborate Other Intercepts.** Intercepts tendered from the bar table need not be admitted if only used to explain the probative value and the relevance of other intercepts. In *Mladić*, the Prosecution tendered 153 intercepts from the bar table (called the 'Bar Table Intercepts') for the purpose of proving the chain of custody of five intercepts whose admission was sought. It then filed a notice which contained, as a confidential annex thereto, a table setting out the probative value and the relevance of the Bar Table Intercepts ('Table').[^152] The Defence objected to the admission of the Table.[^153] However, the Chamber found that the Defence's objections to the admissibility of the Table were unfounded since the Prosecution was not seeking to tender that document into evidence but was merely using it in order to explain the probative value and the relevance of each of the Bar Table Intercepts.[^154]
 
-### Guideline D2. [...]
+### Guideline D2. The probative value of intercepts may be enhanced by tendering the original audio recordings.
 
-[...]
+!!! note "Keywords"
+    probative value; prejudice
+
+Pursuant to Rules 89(C) and (D) of the [ICTY Rules of Procedure and Evidence](https://www.icty.org/x/file/Legal%20Library/Rules_procedure_evidence/IT032Rev50_en.pdf),[^155] evidence must have probative value which should not be substantially outweighed by the need to ensure a fair trial. In its evaluation of the probative value of intercept evidence the Trial Chamber in *Mladić* considered that the Prosecution had tendered the original audio recordings in addition to their BCS transcripts and the corresponding English translations. Additional factors evaluated by the Trial Chamber included the Prosecution's indication that '[t]he voices on the audio tape recordings have been identified as the Accused by OTP staff', that the information in the intercepts was confirmed by witness John Wilson, and that the Defence did not object to the intercepts' origins. The Trial Chamber found that these factors enhanced the probative value of the intercepts, such that it was not substantially outweighed by the need to ensure a fair trial.[^156] 
+
+**Original Intercepted Audio Recordings.** It is not necessary for the Court to have access to the original audio recordings of intercepts when enough evidence surrounding the intercepts already exists.[^157] This mirrors the 'best evidence rule', meaning that 'the Trial Chamber will rely on the best evidence available in the circumstances'.[^158] The Trial Chamber in *Blagojević and Jokić* dismissed the Defence's arguments, which claimed that 'the Prosecutor should have submitted the original audio recordings [...] in order to prove the reliability and authenticity of the intercepts'.[^159] The Trial Chamber established that, given the corroborative testimonial evidence and the very large amount of documentary evidence, it would not be necessary to have access to the original intercept.[^160] The Defence further argued that many domestic jurisdictions 'view tape recordings with scepticism because they can be tampered with'.[^161] The Trial Chamber responded to this by noting that, indeed, certain domestic jurisdictions might be sceptical about the reliability of tape recorded material, but that the ICTY's provisions are 'more generous' on the matter.[^162]
 
 ### Guideline D3. Reliability and authenticity of intercepts may be amplified by the weight of other corroborative evidence.
 
@@ -110,7 +115,7 @@ Pursuant to Article 69(7) of the [Rome Statute](https://www.icc-cpi.int/resource
 
 [^155]: cf Article 69(4) of the [Rome Statute](https://www.icc-cpi.int/resource-library/documents/rs-eng.pdf).
 
-[^156]: *Prosecutor v Mladić* ([Decision on Prosecution Motion for Admission of Documents from the Bar Table](https://www.legal-tools.org/doc/4912a5/)) IT-09-92 (19 July 2013) (TC) [12].
+[^156]: *Prosecutor v Mladić* ([Decision on Prosecution Motion for Admission of Documents from the Bar Table](https://www.legal-tools.org/doc/4912a5/)) IT-09-92 (19 July 2013) (TC) [11]-[12].
 
 [^157]: *Prosecutor v Blagojević and Jokić* ([Decision on the Admission into Evidence of Intercept-Related Materials](https://www.legal-tools.org/doc/646db6/)) IT-02-60-T (18 December 2003) (TC I Section A) [25].
 
