@@ -15,7 +15,7 @@ theme:
     primary: blue
     accent: green
   font: # You can use the name of any font on Google Fonts (https://fonts.google.com/): https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
-    text: Open Sans
+    text: Lato
 
   logo: assets/favicon.png
   favicon: assets/favicon.ico
