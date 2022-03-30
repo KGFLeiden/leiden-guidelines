@@ -8,7 +8,7 @@
 
 [International Case Summaries - to be uploaded](#){ .md-button }
 
-[Extrapolations - to be uploaded]((/assets/Leiden-Guidelines.pdf)){ .md-button }
+[Extrapolations](/assets/Extrapolations MasterDoc (all categories) 20220330_TCKaccepted.pdf){:target="_blank" .md-button }
 
 ## Other Resources
 
