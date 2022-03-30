@@ -37,7 +37,7 @@ nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your
     - 'guidelines/f-audio-recordings.md'
   - Resources:
     - 'resources/downloads.md'
-  - Contact: 'index.md'
+  - Contact: 'contact'
   
 markdown_extensions: # This enables options Markdown features.
   - footnotes
