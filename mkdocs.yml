@@ -37,7 +37,8 @@ nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your
     - 'guidelines/f-audio-recordings.md'
   - Resources:
     - 'resources/downloads.md'
-
+  - Contact: 'index.md'
+  
 markdown_extensions: # This enables options Markdown features.
   - footnotes
   - attr_list # Required for buttons on the downloads page: https://squidfunk.github.io/mkdocs-material/reference/buttons/
