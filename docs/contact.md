@@ -6,4 +6,4 @@ The Kalshoven-Gieskes Forum on International Humanitarian recognizes the Leiden 
 
 The Forum therefore welcomes readers’ feedback, commentary, and novel information related to DDE, as well as contributions to support the continued development of this resource database. 
 
-<img src="/assets/KGF-logo-hidef.jpg" width="200" height="200">.                     <img src="/assets/Leiden-logo-hidefII.png" width="200" height="200">
+<img src="/assets/KGF-logo-hidef.jpg" width="200" height="200">.                   <img src="/assets/Leiden-logo-hidef-final.png" width="200" height="200">
