@@ -22,7 +22,7 @@ The additional resources below are considered by the KGF to serve as the _travau
 
 [Prosecution of International Crimes Using Digitally Derived Evidence in National Courts](/assets/National-Courts.pdf){:target="_blank" .md-button }
 
-[Digitally Derived Evidence Used in UN Human Rights Fact-Finding Missions: Approaches and Standards of Proof](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
+[Digitally Derived Evidence in UN Human Rights Fact-Finding Missions: Approaches and Standards of Proof](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
 
-[Report on Digitally Derived Evidence in International Criminal Law](/assets/DDE in ICL.pdf){:target="_blank" .md-button }
+[Digitally Derived Evidence in International Criminal Law: Legal Framework and Practice](/assets/DDE in ICL.pdf){:target="_blank" .md-button }
 
