@@ -1,6 +1,6 @@
 # Contact
 
-Kindly contact us at <a href="KGFLeiden@gmail.com"></a>
+Kindly contact us at [KGFLeiden@gmail.com] <a href="mailto:KGFLeiden@gmail.com"></a>
 
 The Kalshoven-Gieskes Forum on International Humanitarian recognizes the Leiden Guidelines on the Use of DDE, and the associated resources housed in this database, to be ‘living’, in the sense that the resources require continual review and enhancement to accurately reflect the evolution of the treatment of DDE before international courts and tribunals. 
 
