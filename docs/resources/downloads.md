@@ -20,4 +20,4 @@ The Leiden Guidelines, which are the main outcome of the DDE Project, may be dow
 
 [Prosecution of International Crimes Using Digitally Derived Evidence in National Courts](/assets/National-Courts.pdf){:target="_blank" .md-button }
 
-[Digitally Derived Evidence in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
+[Digitally Derived Evidence Used in UN Human Rights Fact-Finding Missions: Approaches and Standards of Proof](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
