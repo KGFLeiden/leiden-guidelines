@@ -12,12 +12,12 @@ The documents below are considered by the KGF to serve as the 'travaux preparato
 
 ## Case Law Resources
 
-[International Case Summaries - to be uploaded](#){ .md-button }
+[Case Summaries: The Use of Digitally Derived Evidence Before International Criminal Courts and Tribunals](#){ .md-button }
 
-[Extrapolations](/assets/Extrapolations MasterDoc (all categories) 20220330_TCKaccepted.pdf){:target="_blank" .md-button }
+[Extrapolations from Case Law on the Use of Digitally Derived Evidence Before International Criminal Courts and Tribunals](/assets/Extrapolations MasterDoc (all categories) 20220330_TCKaccepted.pdf){:target="_blank" .md-button }
 
 ## Other Resources
 
-[Prosecution of International Crimes Using DDE in National Courts](/assets/National-Courts.pdf){:target="_blank" .md-button }
+[Prosecution of International Crimes Using Digitaly Derived Evidence in National Courts](/assets/National-Courts.pdf){:target="_blank" .md-button }
 
-[DDE in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
+[Digitally Derived Evidence in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
