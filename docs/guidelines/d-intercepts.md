@@ -4,7 +4,7 @@
 
 Intercepts fall under documentary evidence and can be characterised as 'anything in which information of any description is recorded.'[^145] Intercepts are audio communications intercepted using technical equipment[^146] which are transcribed into writing, audiotapes or any other type of digital records.[^147]
 
-### Guideline D1. Intercepts can be tendered from the bar table if they are relevant and probative, and can be used to reduce the number of witnesses required, and/or corroborate other intercepts.
+### D1. Intercepts can be tendered from the bar table if they are relevant and probative, and can be used to reduce the number of witnesses required, and/or corroborate other intercepts.
 
 !!! note "Keywords"
     procedure; relevance; probative value; bar table; witnesses
