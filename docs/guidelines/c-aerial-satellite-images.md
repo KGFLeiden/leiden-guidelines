@@ -4,39 +4,39 @@
 
 Although Courts and Tribunals do not provide a standardised definition of this type of DDE, the term 'satellite images' has been used to describe digitally transmitted images taken by artificial satellites orbiting the Earth[^113] and the term 'aerial images' has been used to describe images taken from the sky by aircrafts or drones (also known as Unmanned Aerial Vehicles (UAVs).[^114]
 
-### Guideline C1. Where forensic evidence including aerial and satellite images is voluminous, it may be entered into evidence via expert reports summarising the forensic evidence.
+### C1. Where forensic evidence including aerial and satellite images is voluminous, it may be entered into evidence via expert reports summarising the forensic evidence.
 
 !!! note "Keywords"
     procedure; experts; forensic evidence; summary report
 
 Pursuant to Rule 92 *bis* (A) of the [ICTY Rules of Procedure and Evidence](https://www.icty.org/x/file/Legal%20Library/Rules_procedure_evidence/IT032Rev50_en.pdf), evidence of a witness in the form of a written statement may be admitted in lieu of oral testimony which goes to proof of a matter other than the acts and conduct of an accused as charged in the indictment. An example of the rule's application would be if evidence in question is of a cumulative nature in that other witnesses will give, or have given, oral testimony of similar facts. This allows investigators to produce summary reports which are derived from multiple sources and aims to give background evidence to the forensic examinations, thereby contextualising and reducing the apparent complexity of their findings.[^115] 'To facilitate matters and to speed up the process',[^116] the ICTY in *Krstić* authorised an investigator with the Office of the Prosecutor to testify in a summary form about the findings of forensic experts who had conducted examinations of various grave sites in 1996, 1998 and 1999 'associated with the take-over of Srebrenica'.[^117]
 
-### Guideline C2. Aerial and satellite images admitted during former witness testimony are admissible if they form an inseparable and indispensable part of that testimony.
+### C2. Aerial and satellite images admitted during former witness testimony are admissible if they form an inseparable and indispensable part of that testimony.
 
 !!! note "Keywords"
     procedure; former testimony; experts; witnesses
 
 Pursuant to Rule 92 *bis* (D) of the [ICTY Rules of Procedure and Evidence](https://www.icty.org/x/file/Legal%20Library/Rules_procedure_evidence/IT032Rev50_en.pdf),[^118] 'a Chamber may admit a transcript of evidence given by a witness in proceedings before the Tribunal which goes to proof of a matter other than the acts and conduct of the accused'. Although Rule 92 *bis* (D) does not explicitly provide for the admission of exhibits admitted during former testimony, these exhibits are admissible pursuant to this rule so long as they form an inseparable and indispensable part of the testimony (whether expert or not).[^119] Aerial and satellite images are an inseparable and indispensable part of the testimony if the witness discusses them 'in his or her written statement or transcript and if that written statement would become incomprehensible or have lesser probative value without [the] admission' of such images.[^120]
 
-**Indexes.** Aerial and satellite images admitted during former witness testimony are admissible if an index is provided. An index should indicate the exact title or exhibit number for each former exhibit to identify the exact exhibits from the previous case.[^121] The ICTY in *Blagojević and Jokić* postponed the admission of aerial images that had been previously tendered and admitted at the ICTY during related witness testimony of previous ICTY trials until an index of proposed exhibits could be provided.[^122]
+**Indexes.** Aerial and satellite images admitted during former witness testimony should be tendered with an index. The index should indicate the exact title or exhibit number for each former exhibit to identify the exact exhibits from the previous case.[^121] The ICTY in *Blagojević and Jokić* postponed the admission of aerial images that had been previously tendered and admitted at the ICTY during related witness testimony of previous ICTY trials until an index of proposed exhibits could be provided.[^122]
 
 **Former Expert Testimony.** Further considerations apply to former expert testimony: aerial and satellite images attached to former expert testimony are admissible if such testimony is also highly relevant to the case and is open to cross-examination by the Defence. Pursuant to Rule 94 *bis* of the [ICTY Rules of Procedure and Evidence](https://www.icty.org/x/file/Legal%20Library/Rules_procedure_evidence/IT032Rev50_en.pdf),[^123] it should be determined whether the expert was a live witness whose report is highly relevant to the case and admissible under Rule 89 and its Guidelines on the Standards Governing the Admission of Evidence, and who the Defence would be able to cross-examine.[^124] Once it is shown that the authors of all reports qualify as experts, that the evidence has probative value and relevance, and that the evidence helps provide a complete picture, former expert evidence can be admitted (including the images attached to the reports).[^125] The ICTY in *Blagojević and Jokić* applied Rule 94 *bis* and, once satisfied that the report's author, D. Manning, was an expert fulfilling all the aforementioned requirements, admitted the expert evidence (including the aerial images attached to it).[^126]
 
-### Guideline C3. Aerial and satellite images should be contemporaneous to the events they purport to be showing.
+### C3. Aerial and satellite images should be contemporaneous to the events they purport to be showing.
 
 !!! note "Keywords"
     relevance; contemporaneity
 
 Where there exists an extensive period of time between when the images were taken and when the events occurred, and where testimony of a witness acknowledges that changes could have arisen between the occurrence of the event and the time at which the aerial images were taken,[^127] the ICC Trial Chamber in *Ntaganda* found that it is 'not in a position to establish beyond reasonable doubt' that what is shown on the image occurred as a result of the event under consideration.[^128] The Trial Chamber determined that images taken more than a month after an attack are 'of limited use to establish whether, and if so how, any destruction took place during the events that are subject to the charges'.[^129]
 
-### Guideline C4. Aerial and satellite images can be used to corroborate other evidence.
+### C4. Aerial and satellite images can be used to corroborate other evidence.
 
 !!! note "Keywords"
     relevance; corroboration
 
 Aerial and satellite images can be used to corroborate other evidence such as forensic evidence,[^130] witness testimony,[^131] and the reliability of intercept communications.[^132] The ICTY in *Krstić* found that aerial images of a purported grave site corroborated real evidence and a forensic report showing disturbances in the grave soil demonstrated that the bodies of those massacred had been exhumed and moved to secondary grave sites.[^133]
 
-### Guideline C5. Insufficient authentication goes to the weight of aerial and satellite images rather than their admissibility.
+### C5. Insufficient authentication goes to the weight of aerial and satellite images rather than their admissibility.
 
 !!! note "Keywords"
     probative value; admissibility; relevance; authentication; chain of custody
@@ -47,7 +47,7 @@ Manipulation and distortion of aerial and satellite images do not necessarily af
 
 **Errors.** The overall weight of aerial and satellite images is not adversely affected by technical errors or the markings and removal of certain data such as site code or coordinates, particularly when authenticated by witness/expert corroboration.[^139] The ICTY in *Popović* found that the erasure of certain dates, marked initially in white and subsequently with a coloured pen, did not deprive aerial images depicting an alleged burial and reburial operation of their weight, particularly in light of extensive expert evidence.[^140]
 
-### Guideline C6. With adequate witness/expert corroboration, aerial and satellite images should be considered authentic and reliable and due weight should be accorded to them.
+### C6. With adequate witness/expert corroboration, aerial and satellite images should be considered authentic and reliable and due weight should be accorded to them.
 
 !!! note "Keywords"
     probative value; relevance; testimony; corroboration; experts
