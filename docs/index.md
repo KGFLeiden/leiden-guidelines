@@ -4,7 +4,7 @@ The KGF research project on ‘Digitally Derived Evidence’ examines the differ
 
 This research project makes use of the expertise and infrastructure of both the [Kalshoven-Gieskes Forum on International Humanitarian Law](http://kalshovengieskesforum.com/) and its IHL Clinic as well as the [Grotius Centre for International Legal Studies](https://www.universiteitleiden.nl/en/law/institute-of-public-law/grotius-centre) at Leiden University. The research is funded by the Federal Department of Foreign Affairs (FDFA), Switzerland.
 
-<img src="/assets/KGF-logo-full-white.png" alt="Kalshoven-Gieskes Forum"/><img src="/assets/Leiden-logo.png" alt="Universiteit Leiden"/>
+<img src="/assets/KGF-logo-hidef.jpg" alt="Kalshoven-Gieskes Forum"/><img src="/assets/Leiden-logo-final.png" alt="Universiteit Leiden"/>
 
 Supported by:
 
