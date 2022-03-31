@@ -16,7 +16,7 @@ The additional resources below are considered by the KGF to serve as the _travau
 
 [Extrapolations from Case Law on the Use of Digitally Derived Evidence Before International Criminal Courts and Tribunals](/assets/Extrapolations from Case Law on DDE in ICCTs.pdf){:target="_blank" .md-button }
 
-[Analysis of Digitally Derived Evidence from the Jurisprudence of International Tribunals](/assets/Case Summaries-The Use of DDE before ICCTs.pdf){:target="_blank" .md-button }
+[Case Summaries: Analysis of Digitally Derived Evidence from the Jurisprudence of International Tribunals](/assets/Case Summaries-The Use of DDE before ICCTs.pdf){:target="_blank" .md-button }
 
 ## Legal Reports
 
