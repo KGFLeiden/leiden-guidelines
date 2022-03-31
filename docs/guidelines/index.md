@@ -1,10 +1,10 @@
-# 1. Introduction
+# Introduction
 
 Digitally Derived Evidence (DDE) is increasingly used in international criminal courts and tribunals to prosecute perpetrators of international crimes. Advanced digital tools, including aerial photography, mobile devices, video, intercepted communications, amongst others, capture new and vast quantities of data, which can add supplementary and supporting data to existing evidence. For example, while an eyewitness account may provide relevant information regarding an event, a satellite image may unearth information that would otherwise be inaccessible. Furthermore, phone and computer records may provide data relevant to an individual's activities, or a video may be geo-located, allowing investigators to explore additional details that a witness may have forgotten.[^1] Given the proliferation of digitally derived evidence and increasing reliance upon it for prosecutions, there is every possibility that digital evidence may become the primary evidence upon which some convictions are based. The use of DDE raises numerous challenges and legal questions and as such these Guidelines have been created to address the legal lacuna by examining the different evidentiary standards relating to DDE before the international criminal courts and tribunals.
 
 The Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals (“The Leiden Guidelines”) are intended to assist practitioners by comprehensively outlining the essential elements which should be considered before submitting DDE to an international criminal court or tribunal. The Guidelines are aimed at legal practitioners and have been designed to be practical and easily accessible whilst also being sufficiently detailed and substantiated. A subsidiary goal of the Leiden Guidelines is knowledge management: recognising that DDE represents a developing area of legal practice, the Leiden Guidelines were designed to be flexible enough to accommodate future developments within its existing framework and structure.
 
-## 1.1 Definition of DDE
+## A. Definition of DDE
 
 The term ‘Digitally Derived Evidence’ was coined by the DDE Project to encompass both digital and digitized evidence, rooted in the following definitions:
 
@@ -19,15 +19,13 @@ The term ‘Digitally Derived Evidence’ was coined by the DDE Project to encom
 
 DDE therefore reflects evidence that originates from electronic or digital technology, as well as evidence that would normally fall under another category of evidence but has been copied or preserved by being converted into a digital form. 
 
-## 1.2 About the Guidelines
-
-### 1.2.1 Methodology
+## B. Methodology
 
 The Leiden Guidelines are based on an in-depth analysis of the jurisprudence of the international criminal courts and tribunals. They draw on the findings set out in the DDE Project's extensive **Case Summaries**, which track the trajectory of digital evidence from its first introduction to its final disposition, providing a deeper understanding of how courts and tribunals have applied their existing evidentiary regimes to digital evidence; as well as the report on **Extrapolations from Case Law on the Use of DDE**, which extracts key conclusions and findings from the Case Summaries. Practitioners can also consult the KGF's publications **Prosecution of International Crimes Using DDE in National Courts** and **DDE in UN Human Rights Fact-Finding Missions** for further insight. These companion documents provide practitioners with a detailed level of analysis from which they will have the flexibility to expand on points of interest and relevant information. The authors hope these materials will help legal practitioners navigate the evidentiary application of DDE through what is a vast quantity of case law and material.
 
 The focus of the Leiden Guidelines is on the International Criminal Court (ICC)'s practice and guidance, recognising the ICC's position as the permanent international criminal judicial body in comparison with other tribunals (such as the International Criminal Tribunals for the former Yugoslavia and Rwanda (ICTY, ICTR), the International Residual Mechanism for Criminal Tribunals (IRMCT or MICT), the Special Court for Sierra Leone (SCSL), and the Special Tribunal for Lebanon (STL)), which are temporary entities with a more limited mandate. Nevertheless, the Leiden Guidelines recognise that there may be situations where another court or tribunal was required to deal with DDE more extensively. Thus, for some guidelines, those courts other than the ICC were given a more central role in the process of guideline formation. Where appropriate, and with recognition of the fact that practitioners and international courts and tribunals frequently draw from domestic decisions when seeking guidance on novel legal issues, relevant national jurisprudence has been incorporated to provide further depth, detail, and perspective.
 
-### 1.2.2 Structure of the Leiden Guidelines
+## C. Structure of the Leiden Guidelines
 
 The Leiden Guidelines address each type of DDE separately in order to take into account their technological and legal particularities. Each section begins with a definition of the DDE category. In so far as is possible, the definitions adopted in the Leiden Guidelines attempt to be reflective of the practice at the international courts and tribunals, even if usage is not always consistent.
 
@@ -43,7 +41,7 @@ The three limbs of the ICC's approach to evidence are briefly defined below and 
 
 **Prejudice.** Pursuant to Article 69(4) of the Rome Statute, the Court is to take into account any prejudice that may be caused by evidence to a fair trial or to a fair evaluation of the testimony of a witness.[^14] The accused's right to a fair and impartial trial is thus protected under this provision.[^15] However, the Court is only required to take prejudice, potential or actual, into account and does not have to declare the evidence inadmissible.[^16] The assessment of prejudice is relative, balanced against the probative value of the evidence, collectively affecting the weight the Court should give the evidence.[^17] This discretion is subject to the mandatory inadmissibility of evidence obtained by means which violate the Rome Statute or internationally recognised human rights if it casts substantial doubt on the reliability of the evidence or whose admission would be antithetical to and would seriously damage the integrity of the proceedings (Article 69(7) of the Rome Statute).[^18] Certain types of DDE, for example, raise particular concerns about the human right to privacy, as will be discussed in greater detail within the Guidelines.
 
-### 1.2.3 Scope of the Leiden Guidelines
+## D. Scope of the Leiden Guidelines
 
 The rules and practice surrounding the use of DDE in international criminal courts and tribunals continue to develop. Digital technology is being used more widely and frequently, not only in the investigation and prosecution of international crimes, but also in their commission. It follows that clearer and more comprehensive discussion of DDE-related considerations is produced as cases proceed to trial. However, this process has not yet occurred in relation to some specific categories of DDE, such that the authors were unable to draw meaningful or authoritative guidelines from the practice of the international criminal courts and tribunals. Accordingly, the Guidelines do not cover the use of social media posts or emails as types of DDE in international criminal proceedings:
 
