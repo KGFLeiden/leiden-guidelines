@@ -1,10 +1,12 @@
 # Downloads
 
-The Leiden Guidelines, which are the main outcome of the DDE Project, may be downloaded in a PDF format via the link below. 
-
 ## Guidelines
 
+The Leiden Guidelines, which are the main outcome of the DDE Project, may be downloaded in PDF format here: 
+
 [Leiden Guidelines](/assets/Leiden-Guidelines.pdf){:target="_blank" .md-button }
+
+
 
 The documents below are considered by the KGF to serve as the 'travaux preparatoires' of the Leiden Guidelines. They compile and showcase the research and analysis conducted over the course of the DDE Project. The documents may therefore provide additional context for practitioners and scholars exploring the treatment of DDE before international criminal courts and tribunals, as well as in the context of fact-finding missions and before certain domestic courts. 
 
