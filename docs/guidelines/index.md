@@ -2,19 +2,22 @@
 
 Digitally Derived Evidence (DDE) is increasingly used in international criminal courts and tribunals to prosecute perpetrators of international crimes. Advanced digital tools, including aerial photography, mobile devices, video, intercepted communications, amongst others, capture new and vast quantities of data, which can add supplementary and supporting data to existing evidence. For example, while an eyewitness account may provide relevant information regarding an event, a satellite image may unearth information that would otherwise be inaccessible. Furthermore, phone and computer records may provide data relevant to an individual's activities, or a video may be geo-located, allowing investigators to explore additional details that a witness may have forgotten.[^1] Given the proliferation of digitally derived evidence and increasing reliance upon it for prosecutions, there is every possibility that digital evidence may become the primary evidence upon which some convictions are based. The use of DDE raises numerous challenges and legal questions and as such these Guidelines have been created to address the legal lacuna by examining the different evidentiary standards relating to DDE before the international criminal courts and tribunals.
 
-The Guidelines are intended to assist practitioners by comprehensively outlining the essential elements which should be considered before submitting DDE to an international criminal court or tribunal. The Guidelines are aimed at legal practitioners and have been designed to be practical and easily accessible whilst also being sufficiently detailed and substantiated. A subsidiary goal of the Guidelines is knowledge management: recognising that DDE represents a developing area of legal practice, the Guidelines were designed to be flexible enough to accommodate future developments within its existing framework and structure.
+The Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals (“The Leiden Guidelines”) are intended to assist practitioners by comprehensively outlining the essential elements which should be considered before submitting DDE to an international criminal court or tribunal. The Guidelines are aimed at legal practitioners and have been designed to be practical and easily accessible whilst also being sufficiently detailed and substantiated. A subsidiary goal of the Leiden Guidelines is knowledge management: recognising that DDE represents a developing area of legal practice, the Leiden Guidelines were designed to be flexible enough to accommodate future developments within its existing framework and structure.
 
 ## 1.1 Definition of DDE
 
-As DDE is quickly developing and there is no universally adopted definition, the following definitions of DDE have been adopted for these Guidelines, given they reflect a broadly endorsed approach towards, and understanding of, the term:
+The term ‘Digitally Derived Evidence’ was coined by the DDE Project to encompass both digital and digitized evidence, rooted in the following definitions:
 
 > **International Bar Association (IBA)**
 >
 > 'Digital and technologically derived evidence, which means evidence taken from and created by digital devices and via technology, such as cameras, satellites and other 'remote sensing technologies' [...] We distinguish digital evidence, created by digital technology and itself the record or trace of an action or event used for the purpose of proceedings, from the digitization of documents and records for the purpose of storing, organizing and presenting evidence, as for example, with the ICC's E-Court protocol.'[^2]
+
 >
 > **Human Rights Center, University of California, Berkeley School of Law**
 >
 > 'Digital evidence is data that is created, manipulated, stored, or communicated by any device, computer or computer system or transmitted over a communication system, that is relevant to the proceeding.'[^3]
+
+DDE therefore reflects evidence that originates from electronic or digital technology, as well as evidence that would normally fall under another category of evidence but has been copied or preserved by being converted into a digital form. 
 
 ## 1.2 About the Guidelines
 
