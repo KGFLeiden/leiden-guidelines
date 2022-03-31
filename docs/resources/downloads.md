@@ -2,7 +2,7 @@
 
 The Leiden Guidelines, which are the main outcome of the DDE Project, may be downloaded in PDF format here: 
 
-[Leiden Guidelines](/assets/Leiden-Guidelines.pdf){:target="_blank" .md-button }
+[Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals](/assets/Leiden-Guidelines.pdf){:target="_blank" .md-button }
 
 
 
@@ -18,6 +18,6 @@ The Leiden Guidelines, which are the main outcome of the DDE Project, may be dow
 
 ## Legal Reports
 
-[Prosecution of International Crimes Using Digitaly Derived Evidence in National Courts](/assets/National-Courts.pdf){:target="_blank" .md-button }
+[Prosecution of International Crimes Using Digitally Derived Evidence in National Courts](/assets/National-Courts.pdf){:target="_blank" .md-button }
 
 [Digitally Derived Evidence in UN Human Rights Fact-Finding Missions](/assets/Fact-Finding-Missions.pdf){:target="_blank" .md-button }
