@@ -29,7 +29,7 @@ The focus of the Leiden Guidelines is on the International Criminal Court (ICC)'
 
 The Leiden Guidelines address each type of DDE separately in order to take into account their technological and legal particularities. Each section begins with a definition of the DDE category. In so far as is possible, the definitions adopted in the Leiden Guidelines attempt to be reflective of the practice at the international courts and tribunals, even if usage is not always consistent.
 
-Every international court and tribunal has procedural and evidentiary rules, which are comprehensively laid out in a number of documents.[^5] The Leiden Guidelines seek to supplement these rules, which should always be complied with, by describing their application to the various types of DDE. The Guidelines furthermore complement the ICC’s E-court Protocol, which provides the technical standards by which digital evidence should be prepared and provided to the Court. [^6]
+Every international court and tribunal has procedural and evidentiary rules, which are comprehensively laid out in a number of documents.[^5] The Leiden Guidelines seek to supplement these rules, which should always be complied with, by describing their application to the various types of DDE. The Guidelines furthermore complement the ICC’s E-court Protocol, which provides the technical standards by which digital evidence should be prepared and provided to the Court.[^6]
 
 The Leiden Guidelines draw upon the ICC's approach to evidence, as set out by the ICC Trial Chamber in *Bemba*:
 
@@ -75,8 +75,7 @@ There was, nevertheless, sufficient guidance from the international criminal cou
 
     [STL](https://www.stl-tsl.org/en/documents): [Statute](https://www.stl-tsl.org/sites/default/files/documents/legal-documents/statute/Statute_of_the_Special_Tribunal_for_Lebanon___English.pdf), [Rules of Procedure and Evidence](https://www.stl-tsl.org/sites/default/files/documents/legal-documents/RPE/RPE-Rev11-Dec-2020-EN-online.pdf).
 
-[^6]: ICC E-court Protocol(https://www.icc-cpi.int/RelatedRecords/CR2019_00267.PDF) 
-
+[^6]: ICC E-court Protocol (https://www.icc-cpi.int/RelatedRecords/CR2019_00267.PDF)  
 
 [^7]: *Prosecutor v Bemba* ([Decision on the admission into evidence of items deferred in the Chamber's "Decision on the Prosecution's Application for Admission of Materials into Evidence Pursuant to Article 64(9) of the Rome Statute" (ICC-01/05-01/08-2299)](https://www.legal-tools.org/doc/9037fc/)) ICC-01/05-01/08 (27 June 2013) TC [9].
 
