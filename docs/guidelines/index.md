@@ -29,7 +29,9 @@ The focus of the Leiden Guidelines is on the International Criminal Court (ICC)'
 
 The Leiden Guidelines address each type of DDE separately in order to take into account their technological and legal particularities. Each section begins with a definition of the DDE category. In so far as is possible, the definitions adopted in the Leiden Guidelines attempt to be reflective of the practice at the international courts and tribunals, even if usage is not always consistent.
 
-Every international court and tribunal has procedural and evidentiary rules, which are comprehensively laid out in a number of documents.[^4] The Leiden Guidelines seek to supplement these rules, which should always be complied with, by describing their application to the various types of DDE. The Leiden Guidelines also draw upon the ICC's approach to evidence, as set out by the ICC Trial Chamber in *Bemba*:
+Every international court and tribunal has procedural and evidentiary rules, which are comprehensively laid out in a number of documents.[^4] The Leiden Guidelines seek to supplement these rules, which should always be complied with, by describing their application to the various types of DDE. The Guidelines furthermore complement the ICC’s E-court Protocol, which provides the technical standards by which digital evidence should be prepared and provided to the Court. 
+
+The Leiden Guidelines draw upon the ICC's approach to evidence, as set out by the ICC Trial Chamber in *Bemba*:
 
 > '[F]or an item to be admitted into evidence it must satisfy the three-part test under which it must (i) be relevant to the case; (ii) have probative value; and (iii) be sufficiently relevant and probative as to outweigh any prejudicial effect its admission may cause. Further, [the] determination on the admissibility into evidence of an item has no bearing on the final weight to be afforded to it, which will only be determined by the Chamber at the end of the case when assessing the evidence as a whole.'[^5]
 
