@@ -62,4 +62,4 @@ extra: # Social page links in the footer: https://squidfunk.github.io/mkdocs-mat
       
       
       
-   
+   php artisan vendor:publish --provider="Spatie\CookieConsent\CookieConsentServiceProvider" --tag="cookie-consent-config"
