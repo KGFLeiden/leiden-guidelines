@@ -8,4 +8,4 @@ This research project makes use of the expertise and infrastructure of both the 
 
 Supported by:
 
-<img src="/assets/FDFA-logo.png" alt="Swiss FDFA"/>
+<img src="/assets/SWISS MFA clean.png" alt="Swiss FDFA"/>
