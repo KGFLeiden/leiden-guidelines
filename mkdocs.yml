@@ -48,7 +48,7 @@ markdown_extensions: # This enables options Markdown features.
 
 extra_javascript: # Opens all external links in a new tab.
   - javascripts/newtab.js
-
+  
 extra: # Social page links in the footer: https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
   social:
     - icon: fontawesome/solid/globe
@@ -59,3 +59,11 @@ extra: # Social page links in the footer: https://squidfunk.github.io/mkdocs-mat
       link: https://twitter.com/kgfleiden
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/kalshoven-gieskesforum/
+      
+      
+      
+      
+      
+      
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-ca15c198-b3fa-4bc9-b71d-99e1db6f8755"></div>
