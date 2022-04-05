@@ -75,7 +75,7 @@ There was, nevertheless, sufficient guidance from the international criminal cou
 
     [STL](https://www.stl-tsl.org/en/documents): [Statute](https://www.stl-tsl.org/sites/default/files/documents/legal-documents/statute/Statute_of_the_Special_Tribunal_for_Lebanon___English.pdf), [Rules of Procedure and Evidence](https://www.stl-tsl.org/sites/default/files/documents/legal-documents/RPE/RPE-Rev11-Dec-2020-EN-online.pdf).
 
-[^6]: ICC E-court Protocol (https://www.icc-cpi.int/RelatedRecords/CR2019_00267.pdf) 
+[^6]: [ICC E-court Protocol](https://www.icc-cpi.int/RelatedRecords/CR2019_00267.PDF)  
 
 [^7]: *Prosecutor v Bemba* ([Decision on the admission into evidence of items deferred in the Chamber's "Decision on the Prosecution's Application for Admission of Materials into Evidence Pursuant to Article 64(9) of the Rome Statute" (ICC-01/05-01/08-2299)](https://www.legal-tools.org/doc/9037fc/)) ICC-01/05-01/08 (27 June 2013) TC [9].
 
