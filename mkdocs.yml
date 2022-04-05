@@ -60,6 +60,3 @@ extra: # Social page links in the footer: https://squidfunk.github.io/mkdocs-mat
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/kalshoven-gieskesforum/
       
-      
-      
-   php artisan vendor:publish --provider="Spatie\CookieConsent\CookieConsentServiceProvider" --tag="cookie-consent-config"
