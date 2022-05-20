@@ -26,7 +26,7 @@ Instead, the CDRs should be rendered intelligible through Call Sequence Tables (
 
 **Material Outside Scope of Disclosure Obligation.** Pursuant to Rule 76(A) of the [IRMCT Rules of Procedure and Evidence](https://www.irmct.org/sites/default/files/documents/MICT-1-Rev-7-en.pdf), reports, memoranda, or other internal documents prepared by a party in connection with the investigation, preparation, or presentation of the case are not subject to disclosure obligations.[^239] The MICT Single Judge in *Turinabo et al* decided that internal notes and mission reports concerning the intercepted communications were not subject to disclosure where the Defence has not demonstrated that any of the information sought might prima facie be exculpatory.[^240]
 
-### E3. Call Data Recordss and Call Sequence Tables can be used in relation to other communications evidence or relied upon in their own right.
+### E3. Call Data Records and Call Sequence Tables can be used in relation to other communications evidence or relied upon in their own right.
 
 !!! note "Keywords"
     relevance; corroboration
