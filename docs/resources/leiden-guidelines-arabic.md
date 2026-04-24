@@ -4,7 +4,7 @@ The Leiden Guidelines, after their initial successes, have now been translated i
 
 Please also read the disclaimer (below) before using the Leiden Guidelines.
 
-[Leiden Guidelines (Arabic)](../assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404_ara-IQ.docx.pdf){ .md-button }
+[Leiden Guidelines (Arabic)](../assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404_ara-IQ.docx.pdf){:target="_blank" .md-button }
 
 <h3 dir="rtl">مبادئ لايدن الإرشادية: إخلاء المسؤولية</h3>
 
@@ -16,12 +16,12 @@ Please also read the disclaimer (below) before using the Leiden Guidelines.
 
 **Translator's Message**
 
-[Translator's Message (English)](../assets/Translator's message to Authors English.docx.pdf){ .md-button }
+[Translator's Message (English)](../assets/Translator's message to Authors English.docx.pdf){:target="_blank" .md-button }
 
-[Translator's Message (Arabic)](../assets/Translator's message to Authors Arabic.docx.pdf){ .md-button }
+[Translator's Message (Arabic)](../assets/Translator's message to Authors Arabic.docx.pdf){:target="_blank" .md-button }
 
 **Translator's Certificate**
 
-[Translator's Certificate (English)](../assets/Translator's Certificate English.docx.pdf){ .md-button }
+[Translator's Certificate (English)](../assets/Translator's Certificate English.docx.pdf){:target="_blank" .md-button }
 
-[Translator's Certificate (Arabic)](../assets/Translator's Certificate Arabic.docx.pdf){ .md-button }
+[Translator's Certificate (Arabic)](../assets/Translator's Certificate Arabic.docx.pdf){:target="_blank" .md-button }
