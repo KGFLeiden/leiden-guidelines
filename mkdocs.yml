@@ -39,6 +39,7 @@ nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your
     - PDF Downloads: 'resources/downloads.md'
     - Leiden Guidelines (English): 'resources/leiden-guidelines-english.md'
     - Leiden Guidelines (Arabic): 'resources/leiden-guidelines-arabic.md'
+    - Background Research and Additional Resources: 'resources/background-research.md'
   - Contact: 'contact'
   
 markdown_extensions: # This enables options Markdown features.
