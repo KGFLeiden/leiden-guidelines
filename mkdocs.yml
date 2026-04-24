@@ -36,8 +36,8 @@ nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your
     - 'guidelines/e-call-data-records.md'
     - 'guidelines/f-audio-recordings.md'
   - Resources:
-   - PDF Downloads: 'resources/downloads.md'
-   - Leiden Guidelines (English): 'resources/leiden-guidelines-english.md'
+    - PDF Downloads: 'resources/downloads.md'
+    - Leiden Guidelines (English): 'resources/leiden-guidelines-english.md'
   - Contact: 'contact'
   
 markdown_extensions: # This enables options Markdown features.
