@@ -2,7 +2,7 @@
 
 The Leiden Guidelines may be downloaded in PDF format here:
 
-[Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals](../assets/Leiden_Guidelines_on_the_Use_of_DDE_in_ICCTs_20220404.pdf){ .md-button }
+[Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals](../assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404.pdf){ .md-button }
 
 ## Leiden Guidelines: Disclaimer
 
