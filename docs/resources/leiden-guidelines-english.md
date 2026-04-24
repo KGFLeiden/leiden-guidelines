@@ -1,15 +1,10 @@
----
-hide:
-  - toc
----
-
 # Leiden Guidelines (English)
 
 The Leiden Guidelines may be downloaded in PDF format here:
 
 [Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals](../assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404.pdf){ .md-button }
 
-## Leiden Guidelines: Disclaimer
+**Leiden Guidelines: Disclaimer**
 
 The Leiden Guidelines on the Use of Digitally Derived Evidence in International Criminal Courts and Tribunals, published in March 2022, is a primer on the interpretation and application of digitally derived evidence before international criminal courts and tribunals (ICCTs).
 
