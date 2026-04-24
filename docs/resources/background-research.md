@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Background Research and Additional Resources
 
 The additional resources below are considered by the KGF to serve as the _travaux préparatoires_ of the Leiden Guidelines. While the Leiden Guidelines are the main outcome of the DDE Project, the documents below are the research and analysis outputs conducted over the three-year course of the DDE Project. These documents serve to provide additional information and context for practitioners and scholars exploring the treatment of DDE before international criminal courts and tribunals, as well as in the context of fact-finding missions and in select national jurisdictions.
