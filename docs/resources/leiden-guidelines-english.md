@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Leiden Guidelines (English)
 
 The Leiden Guidelines may be downloaded in PDF format here:
