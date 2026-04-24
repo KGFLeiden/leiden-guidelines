@@ -6,7 +6,7 @@ Please also read the disclaimer (below) before using the Leiden Guidelines.
 
 [Leiden Guidelines (Arabic)](../assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404_ara-IQ.docx.pdf){ .md-button }
 
-## مبادئ لايدن الإرشادية: إخلاء المسؤولية
+##<h2 dir="rtl">مبادئ لايدن الإرشادية: إخلاء المسؤولية</h2>
 
 <p dir="rtl">تُعدّ مبادئ جامعة لايدن الإرشادية الخاصة باستخدام الأدلة المشتقة رقميًا في المحاكم والهيئات الجنائية الدولية، الصادرة في مارس 2022، دليلاً تمهيدياً يوضح كيفية تفسير وتطبيق هذا النوع من الأدلة أمام المحاكم والهيئات الجنائية الدولية.</p>
 
