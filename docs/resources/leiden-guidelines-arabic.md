@@ -1,8 +1,10 @@
-# Leiden Guidelines (Arabic) PDF
+# Leiden Guidelines (Arabic)
 
 The Leiden Guidelines are now available in Arabic. The translation of the Guidelines has been made thanks to the effort of  Osamah Fayyadh. The translation will make it more accessible to scholars and practitioners to use the Leiden Guidelines in the Arab-speaking parts of the world. You can download the translation below.
 
 [Leiden Guidelines (Arabic)](/assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404_ara-IQ.docx.pdf){:target="_blank" .md-button }
+
+<div style="font-size: 0.85em;">
 
 <p dir="rtl"><strong>مبادئ لايدن الإرشادية: إخلاء المسؤولية</strong></p>
 
@@ -11,6 +13,8 @@ The Leiden Guidelines are now available in Arabic. The translation of the Guidel
 <p dir="rtl">وقد استندت هذه المبادئ حصراً إلى مجموعة مختارة من الأحكام والوثائق القضائية الصادرة عن تلك المحاكم (مع إشارات محدودة إلى قضايا وطنية)، وذلك حتى ديسمبر 2021. لا تهدف هذه المبادئ إلى تقديم توجيهات شاملة ولا تدعي عرض أفضل الممارسات في مجال الأدلة الرقمية، بل تعكس استنتاجات حذرة مستمدة من السوابق القضائية والقرارات الصادرة عن المحاكم الجنائية الدولية. للاطلاع على منهجية هذه المبادئ والموارد المرافقة لقاعدة بيانات الأدلة الرقمية، يُرجى الرجوع إلى المقدمة عبر الرابط التالي:<br><a href="https://leiden-guidelines.com/guidelines/">https://leiden-guidelines.com/guidelines/</a></p>
 
 <p dir="rtl">وتجدر الإشارة إلى أن مبادئ لايدن الإرشادية تُعدّ مورداً أكاديمياً ولا تشكّل استشارة قانونية.</p>
+
+</div>
 
 **Translator's Message**
 
