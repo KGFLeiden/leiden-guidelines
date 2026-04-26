@@ -1,8 +1,6 @@
 # Leiden Guidelines (Arabic) PDF
 
-The Leiden Guidelines, after their initial successes, have now been translated into Arabic. The translation of the Guidelines has been made by Osamah Fayyadh after one and a half years of work. We are extremely grateful to Osamah for his incredible work and effort put into the translation of the Leiden Guidelines. The translation will make it more accessible to scholars and practitioners to use the Leiden Guidelines in the Arab-speaking parts of the world. You can freely download the translation below.
-
-Please also read the disclaimer (below) before using the Leiden Guidelines.
+The Leiden Guidelines are now available in Arabic. The translation of the Guidelines has been made thanks to the effort of  Osamah Fayyadh. We are extremely grateful to Osamah for his incredible work and effort put into the translation of the Leiden Guidelines. The translation will make it more accessible to scholars and practitioners to use the Leiden Guidelines in the Arab-speaking parts of the world. You can download the translation below.
 
 [Leiden Guidelines (Arabic)](/assets/Leiden Guidelines on the Use of DDE in ICCTs 20220404_ara-IQ.docx.pdf){:target="_blank" .md-button }
 
