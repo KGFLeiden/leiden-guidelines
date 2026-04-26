@@ -22,6 +22,6 @@ Please also read the disclaimer (below) before using the Leiden Guidelines.
 
 **Translator's Certificate**
 
-[Translator's Certificate (English)](../assets/Translator's Certificate English.docx.pdf){:target="_blank" .md-button }
+[Translator's Certificate (English)](/assets/Translators-Certificate-English.pdf){:target="_blank" .md-button }
 
-[Translator's Certificate (Arabic)](../assets/Translator's Certificate Arabic.docx.pdf){:target="_blank" .md-button }
+[Translator's Certificate (Arabic)](/assets/Translators-Certificate-Arabic.pdf){:target="_blank" .md-button }
