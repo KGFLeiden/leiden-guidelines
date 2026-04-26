@@ -1,4 +1,4 @@
-# Leiden Guidelines (English)
+# Leiden Guidelines (English) PDF
 
 The Leiden Guidelines may be downloaded in PDF format here:
 
