@@ -1,4 +1,4 @@
-# Leiden Guidelines (Arabic)
+# Leiden Guidelines (Arabic) PDF
 
 The Leiden Guidelines, after their initial successes, have now been translated into Arabic. The translation of the Guidelines has been made by Osamah Fayyadh after one and a half years of work. We are extremely grateful to Osamah for his incredible work and effort put into the translation of the Leiden Guidelines. The translation will make it more accessible to scholars and practitioners to use the Leiden Guidelines in the Arab-speaking parts of the world. You can freely download the translation below.
 
