@@ -1,6 +1,6 @@
 # Leiden Guidelines PDF (Arabic)
 
-The Leiden Guidelines are now available in Arabic. Thanks to the efforts of translator Osamah Fayyadh, the translation renders the Guidelines more accessible to scholars and practitioners in Arabic-speaking communities worldwide.
+The Leiden Guidelines are now available in Arabic. Thanks to the efforts of translator Mr Osamah Fayyadh, the translation renders the Guidelines more accessible to scholars and practitioners in Arabic-speaking communities worldwide.
 The Leiden Guidelines' Arabic Translation may be downloaded in PDF format here:
 
 [Leiden Guidelines (Arabic)]([updated AR] Leiden Guidelines on the Use of DDE in ICCTs_20220404_ara-IQ.pdf){:target="_blank" .md-button }
