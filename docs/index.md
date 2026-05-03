@@ -4,6 +4,7 @@ The KGF research project on 'Digitally Derived Evidence' examines the different 
 
 This research project makes use of the expertise and infrastructure of both the [Kalshoven-Gieskes Forum on International Humanitarian Law](http://kalshovengieskesforum.com/) and its IHL Clinic as well as the [Grotius Centre for International Legal Studies](https://www.universiteitleiden.nl/en/law/institute-of-public-law/grotius-centre) at Leiden University. The research is funded by the Federal Department of Foreign Affairs (FDFA), Switzerland.
 
+
 # The Arabic translation of the Leiden Guidelines is now available!
 
 Translation makes the Guidelines more accessible for scholars and legal practitioners in Arab-speaking parts of the world. You can access the translation on the [resources page](resources/leiden-guidelines-arabic.md) of the website.
