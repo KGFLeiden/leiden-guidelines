@@ -7,7 +7,7 @@ This research project makes use of the expertise and infrastructure of both the 
 
 # The Arabic translation of the Leiden Guidelines is now available!
 
-Translation makes the Guidelines more accessible for scholars and legal practitioners in Arab-speaking parts of the world. You can access the translation on the [resources page](resources/leiden-guidelines-arabic.md) of the website.
+The translation is available on the [resources page](resources/leiden-guidelines-arabic.md) of the website.
 
 <img src="/assets/KGF-logo-hidef.jpg" width="250" height="250">  <img src="/assets/Leiden-logo-hidef-final.png" width="200" height="200">
 
