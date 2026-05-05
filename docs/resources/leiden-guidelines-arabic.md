@@ -4,7 +4,7 @@ The Leiden Guidelines are now available in Arabic. Thanks to the efforts of tran
 
 The Leiden Guidelines' Arabic Translation may be downloaded in PDF format here:
 
-[Leiden Guidelines (Arabic)](/assets/Leiden Guidelines on the Use of DDE in ICCTs_20220404_ara-IQ.pdf) {:target="_blank" .md-button }
+[Leiden Guidelines (Arabic)](/assets/Leiden Guidelines on the Use of DDE in ICCTs_20220404_ara-IQ.pdf){:target="_blank" .md-button }
 
 <div style="font-size: 0.85em;">
 
